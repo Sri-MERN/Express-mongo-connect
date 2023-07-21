@@ -25,3 +25,6 @@ This is Database connectivity basic :-
    *Delete user by id          - http://localhost:8000/users/:id - deletes specific data,
 
    *Then we can see connected Database via mongocompass with our set dbname and datas within it,
+
+   *FOR global access - https://express-mongo-connect.onrender.com,
+   *IN postman same as above just remove http://localhost:8000/users and replace it with https://express-mongo-     connect.onrender.com/users for others also same
